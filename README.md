@@ -2,7 +2,7 @@
 Real-Time River Water Quality Monitoring and Control System
 
 
-Team Lead - AKAASH KL
+Team Lead - Akaash KL
 
 
 
